@@ -1,4 +1,4 @@
-### <h2>Hi, im Andres Castañeda</h2><img src="assets/git_banner.png"></h2>
+### <h2>Hi, im Andres Castañeda</h2><img src="assets/git_banner.png" width="100%"></h2>
 <p><em>Remote Full-stack web developer ready for adventure</em>
 
 
