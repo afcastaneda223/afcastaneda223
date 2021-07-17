@@ -3,7 +3,7 @@
 
 
 ```javascript
-const eliVillalejos = {
+const andresCastaneda = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
   Tailwind CSS],
