@@ -1,16 +1,12 @@
-### Hi there 👋
+### <h2>Hi, im Andres Castañeda</h2><img src="assets/git_banner.png" width="70"></h2>
+<p><em>Remote Full-stack web developer ready for adventure</em>
 
-<!--
-**afcastaneda223/afcastaneda223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const eliVillalejos = {
+  lookingFor: "Front-end developer" || "Full-stack web developer",
+  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
+  Tailwind CSS],
+  funFacts: ['I have 2+ years of remote work experience with devs from all over the world']
+}
+```
