@@ -10,3 +10,4 @@ const eliVillalejos = {
   funFacts: ['I have 2+ years of remote work experience with devs from all over the world']
 }
 ```
+[![Andres GitHub stats](https://github-readme-stats.vercel.app/api?username=afcastaneda223)](https://github.com/afcastaneda/github-readme-stats)
