@@ -27,14 +27,3 @@ const andresCastaneda = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afcastaneda223&layout=compact&theme=merko)](https://github.com/afcastaneda223)
 
-[![Andres's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=afcastaneda223&theme=merko)](https://github.com/afcastaneda223)
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   16 hrs 40 mins  ███████████████████████▓░   94.92 % 
-HTML         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-JSON         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-YAML         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-Markdown     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-```
-<!--END_SECTION:waka-->
